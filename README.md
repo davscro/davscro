@@ -75,3 +75,5 @@
 - GitHub: [@davscro](https://github.com/davscro)
 - Website: [www.codify.hr](https://www.codify.hr)
 - LinkedIn: [davor-s-453aaa1b2](https://www.linkedin.com/in/davor-s-453aaa1b2/)
+
+<!-- profile-refresh: 2026-02-19 -->
